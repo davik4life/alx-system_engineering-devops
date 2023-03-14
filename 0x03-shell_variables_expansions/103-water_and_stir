@@ -1,2 +1,2 @@
 #!/bin/bash
-printf export bestchol=$(($WATER + $STIR))
+printf (export bestchol=$(($WATER + $STIR)))
